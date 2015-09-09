@@ -1,6 +1,13 @@
 <resources>
     <string name="app_name">YouGift</string>
 
+    <string name="connect_login">login_x</string>
+    <string name="connect_password">password</string>
+    <string name="connect_button">OK</string>
+    <string name="connect_rembember_me_checkbox">Remember be</string>
+    <string name="connect_signature">(void)TeamName</string>
+
+    <string name="token_hint">00000000</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
 </resources>
